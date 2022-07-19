@@ -1,6 +1,7 @@
-#Stock price prediction with multiple linear regression
-Dataset: https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020?resource=download
+###### Stock price prediction with multiple linear regression
 
-Project Name: Stock Price Prediction
+**Dataset:** https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020?resource=download
 
-Reference Link https://www.projectpro.io/article/machine-learning-regression-projects-ideas/501
+**Project Name:** Stock Price Prediction
+
+**Reference Link:**  https://www.projectpro.io/article/machine-learning-regression-projects-ideas/501
