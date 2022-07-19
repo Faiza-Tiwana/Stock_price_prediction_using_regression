@@ -1,1 +1,1 @@
-# Stock_price_prediction_using_regression
+# Stock price prediction with multiple linear regression
